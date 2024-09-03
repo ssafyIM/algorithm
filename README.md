@@ -1,4 +1,19 @@
 # IM
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/thunthuni"><img src="https://avatars.githubusercontent.com/thunthuni" width="130px;" alt=""><br /><sub><b>김수현</b></sub></a></td>
+    <td align="center"><a href="https://github.com/dino9881"><img src="https://avatars.githubusercontent.com/dino9881" width="130px;" alt=""><br /><sub><b>김종호</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Ssssangwoops"><img src="https://avatars.githubusercontent.com/Ssssangwoops" width="130px;" alt=""><br /><sub><b>박상우</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/wony0321"><img src="https://avatars.githubusercontent.com/wony0321" width="130px;" alt=""><br /><sub><b>임예원</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seungki-cho"><img src="https://avatars.githubusercontent.com/seungki-cho" width="130px;" alt=""><br /><sub><b>조승기</b></sub></a></td>
+    <td align="center"><a href="https://github.com/chwangmin"><img src="https://avatars.githubusercontent.com/chwangmin" width="130px;" alt=""><br /><sub><b>최광민</b></sub></a></td>
+  </tr>
+</table>
+
+
 ## 📝 스터디 개요
 이 스터디는 알고리즘 문제 해결 능력을 향상시키고, 코딩 테스트에 대비하기 위해 만들어졌습니다. 다양한 알고리즘 문제를 함께 풀고, 서로의 풀이를 리뷰하며 더 나은 해결 방법을 모색합니다.
 
